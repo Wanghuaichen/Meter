@@ -1,0 +1,11 @@
+.\objects\stm32f30x_i2c.o: DRIVERS\stm32f30x_i2c.c
+.\objects\stm32f30x_i2c.o: DRIVERS\stm32f30x_i2c.h
+.\objects\stm32f30x_i2c.o: .\USER\stm32f30x.h
+.\objects\stm32f30x_i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cm4.h
+.\objects\stm32f30x_i2c.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\stm32f30x_i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmInstr.h
+.\objects\stm32f30x_i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\cmsis_armcc.h
+.\objects\stm32f30x_i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmFunc.h
+.\objects\stm32f30x_i2c.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\4.5.0\CMSIS\Include\core_cmSimd.h
+.\objects\stm32f30x_i2c.o: .\USER\system_stm32f30x.h
+.\objects\stm32f30x_i2c.o: DRIVERS\stm32f30x_rcc.h
